@@ -1,0 +1,144 @@
+h1 {
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.subheading {
+    color:rgb(61, 85, 219);
+    font-size: large;
+    font-weight: bolder;
+}
+
+h2 {
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(61, 85, 219);
+}
+
+.highlight {
+    background-color: whitesmoke;
+}
+
+.myheaders {
+    font-size: 35px;
+    color: rgb(61, 85, 219);
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+
+
+
+.header {
+    background-color: rgb(222, 122, 122);
+    color: white;
+    font-size: 45px;
+    height: 350px;
+    line-height: 120px;
+    padding-top: 40px;
+    font-family: 'Lora', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+.subheader {
+    color: black;
+    background-color: rgb(222, 122, 122);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    line-height: 2px;
+    height: 100px;
+    margin-top: 0;
+}
+
+h4{
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Lora', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;;
+
+}
+
+body {
+    background-color:rgb(232, 223, 223);
+    text-align: center;
+}
+
+.footer {
+    position: relative;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.my_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.steps{
+    font-weight: bolder;
+    color: rgb(222, 122, 122);
+}
+
+.my_list {
+    text-align: left;
+    display: inline-block;
+    font-size: 35px;
+}
+
+.video {
+    position: relative;
+    width: 100%;
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+ol{
+    text-align: left;
+    display: inline-block;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
+nav {
+    padding: 10px;
+    overflow:hidden;
+    background-color: rgb(222, 122, 122);
+}
+
+.matching {
+    font: 30;
+}
+
+nav a {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    float:right;
+}
+
+nav a:hover {
+    background-color: rgba(0, 0, 0, 0.075)
+}
+
+.ptag {
+    font-size: 30px;
+}
+
+.move{
+    padding-right: 600px;
+}
